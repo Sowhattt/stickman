@@ -1,0 +1,111 @@
+
+fx_leo.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_expo_skill_202/1
+  rotate: true
+  xy: 1492, 95
+  size: 432, 286
+  orig: 932, 640
+  offset: 250, 46
+  index: -1
+fx_expo_skill_202/1053-1
+  rotate: true
+  xy: 3414, 213
+  size: 314, 188
+  orig: 339, 208
+  offset: 19, 20
+  index: -1
+fx_expo_skill_202/1053-2
+  rotate: true
+  xy: 1199, 79
+  size: 448, 291
+  orig: 457, 303
+  offset: 1, 11
+  index: -1
+fx_expo_skill_202/1053-3
+  rotate: true
+  xy: 622, 2
+  size: 459, 292
+  orig: 468, 304
+  offset: 1, 11
+  index: -1
+fx_expo_skill_202/1053-4
+  rotate: true
+  xy: 2872, 95
+  size: 432, 278
+  orig: 465, 303
+  offset: 19, 24
+  index: -1
+fx_expo_skill_202/1053-5
+  rotate: true
+  xy: 2051, 85
+  size: 442, 277
+  orig: 481, 301
+  offset: 20, 24
+  index: -1
+fx_expo_skill_202/1053-6
+  rotate: true
+  xy: 2330, 77
+  size: 450, 272
+  orig: 489, 299
+  offset: 19, 27
+  index: -1
+fx_expo_skill_202/1053-7
+  rotate: true
+  xy: 1780, 69
+  size: 458, 269
+  orig: 490, 298
+  offset: 16, 28
+  index: -1
+fx_expo_skill_202/1053-8
+  rotate: true
+  xy: 2604, 68
+  size: 459, 266
+  orig: 491, 293
+  offset: 16, 27
+  index: -1
+fx_expo_skill_202/1053-9
+  rotate: true
+  xy: 3152, 103
+  size: 424, 260
+  orig: 486, 290
+  offset: 27, 29
+  index: -1
+fx_expo_skill_202/2
+  rotate: true
+  xy: 916, 61
+  size: 466, 281
+  orig: 932, 640
+  offset: 211, 46
+  index: -1
+fx_expo_skill_202/3
+  rotate: false
+  xy: 2, 234
+  size: 533, 293
+  orig: 932, 640
+  offset: 185, 44
+  index: -1
+fx_expo_skill_202/4
+  rotate: false
+  xy: 2, 2
+  size: 618, 230
+  orig: 932, 640
+  offset: 143, 46
+  index: -1
+fx_expo_skill_202/5
+  rotate: false
+  xy: 2872, 14
+  size: 630, 79
+  orig: 932, 640
+  offset: 135, 47
+  index: -1
+swords_skill
+  rotate: false
+  xy: 3604, 96
+  size: 114, 431
+  orig: 119, 439
+  offset: 2, 0
+  index: -1

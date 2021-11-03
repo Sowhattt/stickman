@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.Material",
+  "_name": "ladyBugFx_splat",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 1,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTexture": {
+          "__uuid__": "924d4d4d-244e-4049-9dd0-0d75f77e0b7f"
+        },
+        "mainTiling_Offset": {
+          "__type__": "cc.Vec4",
+          "x": 1,
+          "y": 1,
+          "z": 0,
+          "w": 0
+        }
+      },
+      "defines": {}
+    }
+  }
+}

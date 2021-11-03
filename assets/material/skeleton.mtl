@@ -1,0 +1,19 @@
+{
+  "__type__": "cc.Material",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "ccf828b7-b8c1-483a-96ee-b09eb1987ba8"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TINT": false,
+        "USE_ALPHA_TEST": false,
+        "INPUT_IS_GAMMA": false
+      }
+    }
+  }
+}

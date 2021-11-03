@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "flagFX_thunder2",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 1,
+  "_techniqueData": {
+    "0": {
+      "defines": {},
+      "props": {
+        "mainTexture": {
+          "__uuid__": "fbebbf7a-1ba1-467f-9c4d-dd8c630ab2af"
+        }
+      }
+    }
+  }
+}

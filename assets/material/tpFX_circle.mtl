@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "tpFX_circle",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTexture": {
+          "__uuid__": "d20f7104-4168-40aa-9b14-438e775c9030"
+        }
+      },
+      "defines": {}
+    }
+  }
+}

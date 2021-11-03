@@ -1,0 +1,76 @@
+
+totem_miniboss2.png
+size: 367,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/die_totem/0
+  rotate: false
+  xy: 222, 250
+  size: 124, 115
+  orig: 150, 138
+  offset: 11, 4
+  index: -1
+images/die_totem/1
+  rotate: false
+  xy: 2, 17
+  size: 135, 124
+  orig: 150, 138
+  offset: 7, 7
+  index: -1
+images/die_totem/2
+  rotate: false
+  xy: 81, 249
+  size: 139, 116
+  orig: 150, 138
+  offset: 6, 16
+  index: -1
+images/die_totem/3
+  rotate: true
+  xy: 139, 103
+  size: 144, 113
+  orig: 150, 138
+  offset: 4, 20
+  index: -1
+images/die_totem/4
+  rotate: true
+  xy: 254, 106
+  size: 142, 104
+  orig: 150, 138
+  offset: 4, 29
+  index: -1
+images/die_totem/5
+  rotate: false
+  xy: 139, 3
+  size: 125, 98
+  orig: 150, 138
+  offset: 5, 36
+  index: -1
+images/totem/eff_light
+  rotate: false
+  xy: 81, 207
+  size: 40, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1
+images/totem/flag
+  rotate: true
+  xy: 266, 2
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+images/totem/skull
+  rotate: true
+  xy: 81, 161
+  size: 44, 39
+  orig: 46, 41
+  offset: 1, 1
+  index: -1
+images/totem/stick
+  rotate: false
+  xy: 2, 143
+  size: 77, 222
+  orig: 79, 224
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,160 @@
+
+LadyBug.png
+size: 297,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-cang
+  rotate: false
+  xy: 91, 127
+  size: 14, 22
+  orig: 16, 24
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 259, 18
+  size: 30, 33
+  orig: 32, 35
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: false
+  xy: 97, 85
+  size: 12, 17
+  orig: 14, 19
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: true
+  xy: 97, 61
+  size: 22, 8
+  orig: 24, 10
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: true
+  xy: 97, 104
+  size: 21, 13
+  orig: 23, 15
+  offset: 1, 1
+  index: -1
+R-cang
+  rotate: true
+  xy: 91, 151
+  size: 20, 18
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 204, 53
+  size: 55, 54
+  orig: 57, 56
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: true
+  xy: 91, 173
+  size: 29, 19
+  orig: 31, 21
+  offset: 1, 1
+  index: -1
+eyes_atk
+  rotate: true
+  xy: 268, 173
+  size: 38, 21
+  orig: 38, 22
+  offset: 0, 1
+  index: -1
+eyes_fire
+  rotate: true
+  xy: 268, 138
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+fx/fx0 (00)
+  rotate: false
+  xy: 204, 2
+  size: 53, 49
+  orig: 126, 126
+  offset: 28, 42
+  index: -1
+fx/fx0 (01)
+  rotate: false
+  xy: 2, 2
+  size: 58, 56
+  orig: 126, 126
+  offset: 25, 38
+  index: -1
+fx/fx0 (02)
+  rotate: true
+  xy: 203, 213
+  size: 82, 68
+  orig: 126, 126
+  offset: 14, 31
+  index: -1
+fx/fx0 (03)
+  rotate: true
+  xy: 196, 110
+  size: 89, 70
+  orig: 126, 126
+  offset: 14, 30
+  index: -1
+fx/fx0 (04)
+  rotate: false
+  xy: 111, 22
+  size: 91, 74
+  orig: 126, 126
+  offset: 19, 28
+  index: -1
+fx/fx0 (05)
+  rotate: true
+  xy: 112, 98
+  size: 101, 82
+  orig: 126, 126
+  offset: 13, 26
+  index: -1
+fx/fx0 (06)
+  rotate: false
+  xy: 2, 204
+  size: 108, 91
+  orig: 126, 126
+  offset: 11, 22
+  index: -1
+fx/fx0 (07)
+  rotate: false
+  xy: 112, 201
+  size: 89, 94
+  orig: 126, 126
+  offset: 11, 22
+  index: -1
+fx/fx0 (08)
+  rotate: false
+  xy: 2, 105
+  size: 87, 97
+  orig: 126, 126
+  offset: 10, 21
+  index: -1
+fx/fx0 (09)
+  rotate: true
+  xy: 2, 60
+  size: 43, 93
+  orig: 126, 126
+  offset: 49, 25
+  index: -1
+get-hit
+  rotate: true
+  xy: 260, 69
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 62, 19
+  size: 32, 39
+  orig: 34, 41
+  offset: 1, 1
+  index: -1

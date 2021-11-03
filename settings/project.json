@@ -1,0 +1,155 @@
+{
+  "group-list": [
+    "default",
+    "player",
+    "enemy",
+    "ground",
+    "ui",
+    "wall",
+    "playerHit",
+    "enemyHit",
+    "props",
+    "sword2"
+  ],
+  "collision-matrix": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      null,
+      true,
+      null,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      null,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      null,
+      null,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "Dynamic Atlas",
+    "DragonBones",
+    "Graphics",
+    "Mask",
+    "Native Socket",
+    "ScrollView",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "SafeArea"
+  ],
+  "preview-port": 7456,
+  "design-resolution-width": 1136,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  },
+  "clear-simulator-cache": true,
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "start-scene": "9ef4cdfd-ac2b-460a-adb7-a8d020797739",
+  "last-module-event-record-time": 1634747371405
+}

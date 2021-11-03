@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "leafParticle",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 1,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTexture": {
+          "__uuid__": "039eef2d-4715-4e58-9e07-6fa5877d3f4e"
+        }
+      },
+      "defines": {}
+    }
+  }
+}

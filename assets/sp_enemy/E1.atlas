@@ -1,0 +1,160 @@
+
+E1.png
+size: 330,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 224, 254
+  size: 56, 74
+  orig: 58, 74
+  offset: 1, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 187, 71
+  size: 26, 11
+  orig: 28, 13
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 159, 2
+  size: 54, 36
+  orig: 56, 38
+  offset: 1, 1
+  index: -1
+Jamp
+  rotate: false
+  xy: 215, 9
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+Jamp2
+  rotate: true
+  xy: 247, 12
+  size: 26, 27
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+L_arm
+  rotate: true
+  xy: 159, 153
+  size: 37, 25
+  orig: 39, 27
+  offset: 1, 1
+  index: -1
+L_forearm
+  rotate: false
+  xy: 173, 80
+  size: 12, 40
+  orig: 14, 42
+  offset: 1, 1
+  index: -1
+L_hand
+  rotate: true
+  xy: 187, 98
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+L_leg
+  rotate: true
+  xy: 159, 46
+  size: 23, 42
+  orig: 25, 44
+  offset: 1, 1
+  index: -1
+L_shoulder
+  rotate: true
+  xy: 159, 192
+  size: 44, 39
+  orig: 46, 41
+  offset: 1, 1
+  index: -1
+L_thigh
+  rotate: false
+  xy: 186, 124
+  size: 10, 39
+  orig: 12, 41
+  offset: 1, 1
+  index: -1
+Layer 54
+  rotate: false
+  xy: 148, 11
+  size: 8, 20
+  orig: 10, 22
+  offset: 1, 1
+  index: -1
+R_arm
+  rotate: false
+  xy: 198, 129
+  size: 11, 34
+  orig: 13, 36
+  offset: 1, 1
+  index: -1
+R_foot
+  rotate: false
+  xy: 187, 84
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: true
+  xy: 159, 122
+  size: 29, 25
+  orig: 31, 27
+  offset: 1, 1
+  index: -1
+R_hand
+  rotate: true
+  xy: 186, 165
+  size: 25, 23
+  orig: 28, 26
+  offset: 2, 2
+  index: -1
+R_leg
+  rotate: false
+  xy: 159, 71
+  size: 12, 49
+  orig: 14, 51
+  offset: 1, 1
+  index: -1
+R_thigh
+  rotate: false
+  xy: 200, 202
+  size: 21, 34
+  orig: 23, 36
+  offset: 1, 1
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 9
+  size: 144, 22
+  orig: 148, 25
+  offset: 2, 1
+  index: -1
+fx_attack/1
+  rotate: true
+  xy: 2, 33
+  size: 203, 155
+  orig: 203, 155
+  offset: 0, 0
+  index: -1
+fx_attack/3
+  rotate: false
+  xy: 2, 238
+  size: 220, 90
+  orig: 220, 90
+  offset: 0, 0
+  index: -1
+fx_attack/4
+  rotate: true
+  xy: 224, 40
+  size: 212, 44
+  orig: 212, 44
+  offset: 0, 0
+  index: -1

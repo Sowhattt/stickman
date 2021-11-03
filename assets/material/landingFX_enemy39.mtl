@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.Material",
+  "_name": "landingFX_enemy39",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTexture": {
+          "__uuid__": "777ebc12-3d53-4cac-997e-9edbc1f5fcd2"
+        },
+        "mainTiling_Offset": {
+          "__type__": "cc.Vec4",
+          "x": 1,
+          "y": 1,
+          "z": 0,
+          "w": 0
+        }
+      },
+      "defines": {}
+    }
+  }
+}

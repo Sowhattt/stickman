@@ -1,0 +1,251 @@
+{
+    "Base": {
+        "version": "0",
+        "nickName": "",
+        "todayDate": "0",
+        "isGetDailyReward": "0",
+        "exitTime": "0",
+        "power": "10",
+        "coin": 0,
+        "sound": "1",
+        "shock": "1",
+        "inUsingSkin": "1",
+        "inUsingClothe": "3",
+        "inUsingWeapon": "0",
+        "signInTimes": "0",
+        "loginDays": "0",
+        "nowLevel": "1",
+        "isgetFreeReset": "0",
+        "isUseFreeReset": "0",
+        "todayLoginReward": "0",
+        "keyNumber": "0",
+        "rank": 1,
+        "rankStars": 0,
+        "playerHp": 500,
+        "playerDamage": 60,
+        "playerMoveSpeed": 460,
+        "shurikenDamage": 256,
+        "swordRainDamage": 92,
+
+        "isGetLoginReward": "0",
+        "isGetFirstLoginReward": "0",
+        "isGuanZhu": "0",
+        "isGetLimitTimeReward": "0",
+        "isAddToMyGame": "0",
+        "showTimes": "0",
+        "isAddToDeskTop": "0",
+        "isFirstEnterGame": "1",
+        "trySkinTimes": "0",
+        "choseLevel": "1",
+
+        "playTimes": "0",
+        "addTiliNeedTime": "300",
+        "isKillBoss": "0",
+        "isCompleteHiddlen": "0",
+        "destroyTower": "0",
+        "winTimes": "0",
+        "addGamePopTimes": "0",
+        "isShowAddGame": "0",
+        "defeatTimes": "0",
+        "isFirstShowGuanXing": "0",
+        "winTimes_black": "0"
+    },
+    "attributeLv": {
+        "damage": 0,
+        "speed": 0,
+        "health": 0
+    },
+    "levelUnlock": [
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "levelStar": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0,
+        "26": 0,
+        "27": 0,
+        "28": 0,
+        "29": 0,
+        "30": 0,
+        "31": 0,
+        "32": 0,
+        "33": 0,
+        "34": 0,
+        "35": 0,
+        "36": 0,
+        "37": 0,
+        "38": 0,
+        "39": 0,
+        "40": 0,
+        "41": 0,
+        "42": 0,
+        "43": 0,
+        "44": 0,
+        "45": 0,
+        "46": 0,
+        "47": 0,
+        "48": 0,
+        "49": 0,
+        "50": 0
+    },
+    "skins": [
+        1, 1, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "farmLandState": {
+        "land1": {
+            "state": 1,
+            "seed": 0,
+            "sowTime": 0
+        },
+        "land2": {
+            "state": 1,
+            "seed": 0,
+            "sowTime": 0
+        },
+        "land3": {
+            "state": 1,
+            "seed": 0,
+            "sowTime": 0
+        },
+        "land4": {
+            "state": 1,
+            "seed": 0,
+            "sowTime": 0
+        },
+        "land5": {
+            "state": 1,
+            "seed": 0,
+            "sowTime": 0
+        }
+    },
+    "seedsNumber": {
+        "yumi": 0,
+        "qiezi": 0,
+        "huanggua": 0,
+        "lajiao": 0,
+        "luobo": 0,
+        "boluo": 0,
+        "ningmeng": 0,
+        "xiangjiao": 0,
+        "laoshu": 0,
+        "yazi": 0,
+        "songshu": 0,
+        "tuoniao": 0
+    },
+    "fruitsNumber": {
+        "yumi": 5,
+        "qiezi": 0,
+        "huanggua": 0,
+        "lajiao": 0,
+        "luobo": 0,
+        "boluo": 0,
+        "ningmeng": 0,
+        "xiangjiao": 0,
+        "laoshu": 0,
+        "yazi": 0,
+        "songshu": 0,
+        "tuoniao": 0
+    },
+    "finishedProduct": {
+        "yumi": 0,
+        "qiezi": 0,
+        "huanggua": 0,
+        "lajiao": 0,
+        "luobo": 0,
+        "boluo": 0,
+        "ningmeng": 0,
+        "xiangjiao": 0,
+        "laoshu": 0,
+        "yazi": 0,
+        "songshu": 0,
+        "tuoniao": 0
+    },
+    "haveSeeds": [
+        "yumi"
+    ],
+    "level": [
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "clothes": [
+        1, 1, 1, 1, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "weapons": [
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "decorate": [
+        1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "watchAdTimes": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "eggUnlock": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "eggClues": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "decorateAdTimes": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "hadSet": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "homeGuide": [
+        0, 0, 0, 0, 0, 0, 0
+    ],
+    "hadExchangeCode": [
+
+    ],
+    "setDecorateData": [
+
+    ]
+}

@@ -1,0 +1,167 @@
+
+E2.png
+size: 1140,1140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 125, 262
+  size: 56, 74
+  orig: 58, 74
+  offset: 1, 0
+  index: -1
+Head
+  rotate: false
+  xy: 201, 244
+  size: 45, 35
+  orig: 47, 37
+  offset: 1, 1
+  index: -1
+Jamp
+  rotate: false
+  xy: 193, 214
+  size: 30, 28
+  orig: 32, 30
+  offset: 1, 1
+  index: -1
+L_arm
+  rotate: false
+  xy: 154, 205
+  size: 37, 25
+  orig: 39, 27
+  offset: 1, 1
+  index: -1
+L_calf
+  rotate: true
+  xy: 248, 256
+  size: 23, 42
+  orig: 25, 44
+  offset: 1, 1
+  index: -1
+L_forearm
+  rotate: true
+  xy: 225, 203
+  size: 12, 40
+  orig: 14, 42
+  offset: 1, 1
+  index: -1
+L_hand
+  rotate: false
+  xy: 269, 295
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+L_hand_action
+  rotate: false
+  xy: 221, 162
+  size: 25, 35
+  orig: 28, 38
+  offset: 2, 2
+  index: -1
+L_thigh
+  rotate: true
+  xy: 248, 244
+  size: 10, 39
+  orig: 12, 41
+  offset: 1, 1
+  index: -1
+Layer 58
+  rotate: false
+  xy: 201, 281
+  size: 66, 37
+  orig: 68, 39
+  offset: 1, 1
+  index: -1
+Layer 94 copy
+  rotate: false
+  xy: 125, 232
+  size: 66, 28
+  orig: 68, 30
+  offset: 1, 1
+  index: -1
+R_arm
+  rotate: false
+  xy: 107, 124
+  size: 11, 34
+  orig: 13, 36
+  offset: 1, 1
+  index: -1
+R_calf
+  rotate: true
+  xy: 269, 281
+  size: 12, 49
+  orig: 14, 51
+  offset: 1, 1
+  index: -1
+R_foot
+  rotate: true
+  xy: 127, 148
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: false
+  xy: 225, 217
+  size: 29, 25
+  orig: 31, 27
+  offset: 1, 1
+  index: -1
+R_hand1
+  rotate: true
+  xy: 107, 160
+  size: 20, 18
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+R_hand2
+  rotate: false
+  xy: 295, 295
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+R_thigh
+  rotate: true
+  xy: 256, 221
+  size: 21, 34
+  orig: 23, 36
+  offset: 1, 1
+  index: -1
+arrow
+  rotate: false
+  xy: 107, 182
+  size: 112, 13
+  orig: 115, 16
+  offset: 1, 2
+  index: -1
+bow
+  rotate: false
+  xy: 2, 197
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 193, 199
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+jamp2
+  rotate: true
+  xy: 125, 204
+  size: 26, 27
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+string
+  rotate: false
+  xy: 2, 92
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "ladyBugFx_no",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 1,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTexture": {
+          "__uuid__": "568b3c6e-dc96-4e42-8611-54425a31ecea"
+        }
+      },
+      "defines": {}
+    }
+  }
+}

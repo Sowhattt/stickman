@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a5ec1ce4-9d46-4d3d-9140-89e345a1a01b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 22,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Image_Background_BambooForest1_Base": {
+      "ver": "1.0.6",
+      "uuid": "8c588670-602e-4559-a722-79ad455830c1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a5ec1ce4-9d46-4d3d-9140-89e345a1a01b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 22,
+      "height": 512,
+      "rawWidth": 22,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

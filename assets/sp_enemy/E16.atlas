@@ -1,0 +1,174 @@
+
+E16.png
+size: 520,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 106, 2
+  size: 28, 20
+  orig: 30, 22
+  offset: 1, 1
+  index: -1
+L_foot
+  rotate: false
+  xy: 241, 14
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+L_forearm
+  rotate: true
+  xy: 81, 5
+  size: 25, 23
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+L_hand
+  rotate: false
+  xy: 153, 14
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+L_leg
+  rotate: true
+  xy: 194, 258
+  size: 13, 26
+  orig: 15, 28
+  offset: 1, 1
+  index: -1
+R_arm
+  rotate: true
+  xy: 258, 266
+  size: 16, 27
+  orig: 18, 29
+  offset: 1, 1
+  index: -1
+R_foot
+  rotate: false
+  xy: 262, 14
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+R_forearm
+  rotate: false
+  xy: 50, 10
+  size: 29, 20
+  orig: 31, 22
+  offset: 1, 1
+  index: -1
+R_hand
+  rotate: false
+  xy: 128, 6
+  size: 23, 24
+  orig: 25, 26
+  offset: 1, 1
+  index: -1
+R_leg
+  rotate: true
+  xy: 201, 13
+  size: 24, 19
+  orig: 26, 21
+  offset: 1, 1
+  index: -1
+bag1
+  rotate: true
+  xy: 178, 15
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+bag2
+  rotate: true
+  xy: 194, 345
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 258, 284
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+coin_drop
+  rotate: false
+  xy: 194, 439
+  size: 79, 79
+  orig: 88, 88
+  offset: 4, 5
+  index: -1
+ear
+  rotate: true
+  xy: 259, 400
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 222, 258
+  size: 15, 13
+  orig: 17, 15
+  offset: 1, 1
+  index: -1
+fx_attack/Group-6
+  rotate: false
+  xy: 2, 258
+  size: 190, 260
+  orig: 200, 267
+  offset: 9, 1
+  index: -1
+fx_attack/Group-6-copy
+  rotate: false
+  xy: 2, 32
+  size: 139, 224
+  orig: 150, 237
+  offset: 8, 4
+  index: -1
+fx_attack/Group-6-copy-2
+  rotate: false
+  xy: 143, 39
+  size: 135, 217
+  orig: 150, 234
+  offset: 12, 6
+  index: -1
+get_hit
+  rotate: true
+  xy: 222, 11
+  size: 26, 17
+  orig: 28, 19
+  offset: 1, 1
+  index: -1
+get_hit2
+  rotate: false
+  xy: 153, 3
+  size: 13, 9
+  orig: 15, 11
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 194, 273
+  size: 70, 62
+  orig: 72, 64
+  offset: 1, 1
+  index: -1
+skirt
+  rotate: false
+  xy: 2, 7
+  size: 46, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: true
+  xy: 168, 2
+  size: 10, 11
+  orig: 12, 13
+  offset: 1, 1
+  index: -1

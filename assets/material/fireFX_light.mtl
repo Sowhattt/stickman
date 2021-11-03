@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "fireFX_light",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTexture": {
+          "__uuid__": "1ae6d5c3-e213-425a-b0ba-98c25e730f72"
+        }
+      },
+      "defines": {}
+    }
+  }
+}

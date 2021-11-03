@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c863486e-fd6b-44e4-a231-b60628fa512d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 89,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "Image_Background_OldVillage1_Base": {
+      "ver": "1.0.6",
+      "uuid": "a672113f-c3ab-421e-8acb-6bf601d70398",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c863486e-fd6b-44e4-a231-b60628fa512d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 2048,
+      "rawWidth": 89,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,109 @@
+
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: vs
+      frag: fs
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: none
+      properties:
+        texture: { value: white }
+        alphaThreshold: { value: 0.5 }
+        highLightColor: {value: [1.0,1.0,1.0,0.5]}
+}%
+
+CCProgram vs %{
+
+precision highp float;
+
+#include <cc-global>
+#include <cc-local>
+
+in vec3 a_position;
+in vec4 a_color;
+#if USE_TINT
+  in vec4 a_color0;
+#endif
+
+in vec2 a_uv0;
+out vec2 v_uv0;
+
+out vec4 v_light;
+#if USE_TINT
+  out vec4 v_dark;
+#endif
+
+void main () {
+  mat4 mvp;
+  
+  #if CC_USE_MODEL
+    mvp = cc_matViewProj * cc_matWorld;
+  #else
+    mvp = cc_matViewProj;
+  #endif
+
+  v_uv0 = a_uv0;
+
+  v_light = a_color;
+  #if USE_TINT
+    v_dark = a_color0;
+  #endif
+
+  gl_Position = mvp * vec4(a_position, 1);
+}
+
+}%
+
+CCProgram fs %{
+
+precision highp float;
+
+uniform BeHit{
+  int beHit;
+};
+uniform HIGHLIGHTCOLOR{
+  vec4 highLightColor;
+};
+uniform sampler2D texture;
+in vec2 v_uv0;
+
+in vec4 v_light;
+#if USE_TINT
+  in vec4 v_dark;
+#endif
+
+#include <alpha-test>
+#include <texture>
+
+	vec4 c_SingleColor_main_3(vec4 MainColor, vec4 color)
+	{
+		MainColor.rgb = mix(MainColor.rgb, color.rgb, color.a*MainColor.a);
+		return MainColor;
+	}
+	vec4 c_Output_main_1(vec4 Color) { 
+	    return Color; 
+	}
+void main () {
+  vec4 texColor = vec4(1.0);
+  CCTexture(texture, v_uv0, texColor);
+  vec4 finalColor;
+  #if USE_TINT
+    finalColor.a = v_light.a * texColor.a;
+    finalColor.rgb = ((texColor.a - 1.0) * v_dark.a + 1.0 - texColor.rgb) * v_dark.rgb + texColor.rgb * v_light.rgb;
+  #else
+    finalColor = texColor * v_light;
+  #endif
+
+  ALPHA_TEST(finalColor);
+
+  vec4 out_Output_SingleColor_3=finalColor;
+  if(beHit==1){
+  out_Output_SingleColor_3 = c_SingleColor_main_3(finalColor, highLightColor);
+  }
+  gl_FragColor = out_Output_SingleColor_3;
+}
+
+}%

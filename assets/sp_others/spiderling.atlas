@@ -1,0 +1,97 @@
+
+spiderling.png
+size: 420,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 481 copy
+  rotate: false
+  xy: 146, 400
+  size: 26, 18
+  orig: 29, 20
+  offset: 1, 1
+  index: -1
+Layer 481 copy 2
+  rotate: true
+  xy: 174, 400
+  size: 18, 37
+  orig: 20, 39
+  offset: 1, 1
+  index: -1
+Layer 486
+  rotate: true
+  xy: 213, 400
+  size: 18, 39
+  orig: 20, 41
+  offset: 1, 1
+  index: -1
+Layer 486 copy
+  rotate: true
+  xy: 107, 401
+  size: 17, 37
+  orig: 19, 39
+  offset: 1, 1
+  index: -1
+Layer 487
+  rotate: true
+  xy: 254, 400
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+Layer 488
+  rotate: true
+  xy: 64, 406
+  size: 12, 41
+  orig: 14, 43
+  offset: 1, 1
+  index: -1
+Layer 488 copy
+  rotate: true
+  xy: 2, 408
+  size: 10, 39
+  orig: 12, 41
+  offset: 1, 1
+  index: -1
+Layer 489
+  rotate: true
+  xy: 43, 408
+  size: 10, 19
+  orig: 12, 21
+  offset: 1, 1
+  index: -1
+Layer 490
+  rotate: true
+  xy: 275, 400
+  size: 18, 38
+  orig: 20, 40
+  offset: 1, 1
+  index: -1
+Layer 491
+  rotate: false
+  xy: 342, 370
+  size: 57, 48
+  orig: 59, 51
+  offset: 1, 1
+  index: -1
+Layer 492
+  rotate: false
+  xy: 315, 396
+  size: 25, 22
+  orig: 28, 25
+  offset: 1, 1
+  index: -1
+Untitled-4
+  rotate: false
+  xy: 2, 340
+  size: 79, 64
+  orig: 83, 67
+  offset: 2, 1
+  index: -1
+warning
+  rotate: true
+  xy: 2, 242
+  size: 96, 416
+  orig: 96, 427
+  offset: 0, 11
+  index: -1

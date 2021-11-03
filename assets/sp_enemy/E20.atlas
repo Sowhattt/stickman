@@ -1,0 +1,83 @@
+
+E20.png
+size: 220,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 139, 125
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+Layer 180
+  rotate: false
+  xy: 2, 27
+  size: 44, 55
+  orig: 46, 57
+  offset: 1, 1
+  index: -1
+Layer 187 copy
+  rotate: false
+  xy: 183, 74
+  size: 22, 49
+  orig: 24, 51
+  offset: 1, 1
+  index: -1
+Layer 190 copy
+  rotate: false
+  xy: 139, 77
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Layer 191
+  rotate: false
+  xy: 2, 2
+  size: 30, 23
+  orig: 32, 25
+  offset: 1, 1
+  index: -1
+Layer 192
+  rotate: false
+  xy: 2, 84
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+R_hand 2
+  rotate: false
+  xy: 87, 20
+  size: 15, 17
+  orig: 17, 19
+  offset: 1, 1
+  index: -1
+eff_light
+  rotate: false
+  xy: 173, 32
+  size: 40, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1
+hair1
+  rotate: false
+  xy: 80, 71
+  size: 57, 147
+  orig: 57, 147
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 48, 39
+  size: 30, 123
+  orig: 30, 123
+  offset: 0, 0
+  index: -1
+skull_eyes
+  rotate: false
+  xy: 48, 7
+  size: 37, 30
+  orig: 39, 32
+  offset: 1, 1
+  index: -1

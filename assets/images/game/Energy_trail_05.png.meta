@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8fcdef3d-b04f-4fad-969e-e73827f0e011",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Energy_trail_05": {
+      "ver": "1.0.6",
+      "uuid": "a1087a7d-0a15-4fec-9991-5a36a5ea6956",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8fcdef3d-b04f-4fad-969e-e73827f0e011",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -6,
+      "trimX": 12,
+      "trimY": 12,
+      "width": 44,
+      "height": 244,
+      "rawWidth": 64,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

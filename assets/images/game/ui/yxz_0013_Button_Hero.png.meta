@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6901f019-96a9-4107-b96a-626a626679a2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 99,
+  "height": 109,
+  "platformSettings": {},
+  "subMetas": {
+    "yxz_0013_Button_Hero": {
+      "ver": "1.0.6",
+      "uuid": "ccc09ddb-db5f-4cf2-8d5b-b2543d4d38a6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6901f019-96a9-4107-b96a-626a626679a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 5,
+      "trimY": 5,
+      "width": 89,
+      "height": 99,
+      "rawWidth": 99,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

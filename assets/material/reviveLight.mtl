@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "reviveLight",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "69a05033-11f7-41c7-badd-4a036c6ff619"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}

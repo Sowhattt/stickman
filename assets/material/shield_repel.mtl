@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.Material",
+  "_name": "shield_repel",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTexture": {
+          "__uuid__": "803a26fd-4091-4041-81ed-d3217a83b69c"
+        }
+      },
+      "defines": {}
+    },
+    "1": {
+      "props": {},
+      "defines": {}
+    }
+  }
+}

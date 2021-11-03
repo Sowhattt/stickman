@@ -1,0 +1,181 @@
+
+E4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+M_Ring_02
+  rotate: false
+  xy: 2, 11
+  size: 199, 199
+  orig: 256, 256
+  offset: 29, 28
+  index: -1
+New folder (2)/1756-1
+  rotate: false
+  xy: 486, 103
+  size: 55, 107
+  orig: 64, 115
+  offset: 4, 3
+  index: -1
+New folder (2)/1756-2
+  rotate: false
+  xy: 315, 58
+  size: 56, 131
+  orig: 65, 142
+  offset: 3, 3
+  index: -1
+New folder (2)/1756-3
+  rotate: true
+  xy: 203, 4
+  size: 52, 147
+  orig: 64, 159
+  offset: 4, 10
+  index: -1
+New folder (2)/1756-4
+  rotate: true
+  xy: 352, 3
+  size: 53, 125
+  orig: 60, 136
+  offset: 3, 9
+  index: -1
+New folder (2)/1756-5
+  rotate: false
+  xy: 433, 77
+  size: 51, 133
+  orig: 58, 149
+  offset: 3, 7
+  index: -1
+New folder (2)/1756-6
+  rotate: false
+  xy: 203, 58
+  size: 55, 152
+  orig: 63, 163
+  offset: 3, 9
+  index: -1
+New folder (2)/1756-7
+  rotate: false
+  xy: 260, 62
+  size: 53, 148
+  orig: 61, 159
+  offset: 4, 9
+  index: -1
+New folder (2)/1756-8
+  rotate: false
+  xy: 373, 84
+  size: 58, 126
+  orig: 67, 149
+  offset: 4, 8
+  index: -1
+New folder (2)/1757-1
+  rotate: false
+  xy: 573, 37
+  size: 31, 60
+  orig: 37, 65
+  offset: 3, 2
+  index: -1
+New folder (2)/1757-2
+  rotate: true
+  xy: 592, 4
+  size: 31, 58
+  orig: 37, 65
+  offset: 2, 3
+  index: -1
+New folder (2)/1757-3
+  rotate: true
+  xy: 605, 162
+  size: 30, 59
+  orig: 37, 64
+  offset: 2, 3
+  index: -1
+New folder (2)/1757-4
+  rotate: false
+  xy: 605, 99
+  size: 30, 61
+  orig: 35, 65
+  offset: 2, 3
+  index: -1
+New folder (2)/1757-5
+  rotate: false
+  xy: 637, 99
+  size: 28, 59
+  orig: 33, 65
+  offset: 2, 3
+  index: -1
+New folder (2)/1757-6
+  rotate: true
+  xy: 543, 155
+  size: 32, 60
+  orig: 36, 65
+  offset: 2, 2
+  index: -1
+New folder (2)/1757-7
+  rotate: false
+  xy: 606, 37
+  size: 30, 60
+  orig: 35, 65
+  offset: 3, 2
+  index: -1
+New folder (2)/1757-8
+  rotate: true
+  xy: 531, 2
+  size: 33, 59
+  orig: 37, 65
+  offset: 2, 2
+  index: -1
+bot_head
+  rotate: false
+  xy: 479, 21
+  size: 50, 54
+  orig: 52, 56
+  offset: 1, 1
+  index: -1
+fly_1
+  rotate: false
+  xy: 479, 5
+  size: 11, 14
+  orig: 13, 16
+  offset: 1, 1
+  index: -1
+fly_2
+  rotate: false
+  xy: 504, 8
+  size: 8, 11
+  orig: 10, 13
+  offset: 1, 1
+  index: -1
+fly_3
+  rotate: false
+  xy: 492, 6
+  size: 10, 13
+  orig: 12, 15
+  offset: 1, 1
+  index: -1
+mid_eye
+  rotate: false
+  xy: 2, 2
+  size: 35, 7
+  orig: 37, 9
+  offset: 1, 1
+  index: -1
+mid_head
+  rotate: false
+  xy: 543, 103
+  size: 49, 50
+  orig: 56, 52
+  offset: 1, 1
+  index: -1
+rune
+  rotate: false
+  xy: 638, 37
+  size: 36, 37
+  orig: 39, 41
+  offset: 2, 2
+  index: -1
+top_head
+  rotate: false
+  xy: 531, 37
+  size: 40, 64
+  orig: 42, 66
+  offset: 1, 1
+  index: -1

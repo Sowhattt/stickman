@@ -1,0 +1,219 @@
+{
+    "swordRainInterval": 0.2,
+    "DropBloodProbability": 0.05,
+    "enemyData": {
+        "enemy1": {
+            "hp": 400,
+            "damage": 52,
+            "dropCoinNumber": 2,
+            "isSuperArmor": false
+        },
+        "enemy2": {
+            "hp": 400,
+            "damage": 66,
+            "dropCoinNumber": 2,
+            "isSuperArmor": false
+        },
+        "ladyBug": {
+            "hp": 250,
+            "damage": 53,
+            "dropCoinNumber": 1,
+            "isSuperArmor": true
+        },
+        "enemy29": {
+            "hp": 600,
+            "damage": 74,
+            "dropCoinNumber": 2,
+            "isSuperArmor": false
+        },
+        "enemy10": {
+            "hp": 7000,
+            "damage": 231,
+            "dropCoinNumber": 10,
+            "isSuperArmor": true
+        },
+        "bigSquid": {
+            "hp": 200,
+            "damage": 33,
+            "dropCoinNumber": 1,
+            "isSuperArmor": true
+        },
+        "enemy39": {
+            "hp": 7000,
+            "damage": 125,
+            "dropCoinNumber": 10,
+            "isSuperArmor": true
+        },
+        "spiderling": {
+            "hp": 400,
+            "damage": 50,
+            "dropCoinNumber": 1,
+            "isSuperArmor": false
+        },
+        "shader": {
+            "hp": 2000,
+            "damage": 208,
+            "dropCoinNumber": 5,
+            "isSuperArmor": true
+        },
+        "enemy20": {
+            "hp": 1000,
+            "damage": 65,
+            "dropCoinNumber": 5,
+            "isSuperArmor": false
+        },
+        "enemy18": {
+            "hp": 300,
+            "damage": 138,
+            "dropCoinNumber": 5,
+            "isSuperArmor": true
+        },
+        "miniBoss": {
+            "hp": 7000,
+            "damage": 233,
+            "dropCoinNumber": 10,
+            "isSuperArmor": true
+        },
+        "miniBossFlag": {
+            "hp": 300,
+            "damage": 352,
+            "dropCoinNumber": 3,
+            "isSuperArmor": true
+        }
+    },
+    "enemyHpTimes": {
+        "0": 1,
+        "1": 1.5,
+        "2": 2,
+        "3": 3
+    },
+    "enemyDamageTimes": {
+        "0": 0.4,
+        "1": 0.8,
+        "2": 1.5,
+        "3": 2
+    },
+    "waveInterval": 6,
+    "levelData": {
+        "1": {
+            "map": 0,
+            "enemySpawn": {
+                "wave": 1,
+                "amount": [3, 3, 4, 4],
+                "enemyNames": ["enemy1"]
+            }
+        },
+        "2": {
+            "map": 0,
+            "enemySpawn": {
+                "wave": 2,
+                "amount": [3, 3, 4, 4],
+                "enemyNames": ["enemy1", "enemy2", "ladyBug"]
+            }
+        },
+        "3": {
+            "map": 1,
+            "enemySpawn": {
+                "wave": 2,
+                "amount": [3, 3, 4, 4],
+                "enemyNames": ["enemy1", "enemy2", "enemy29", "ladyBug"]
+            }
+        },
+        "4": {
+            "map": 1,
+            "enemySpawn": {
+                "wave": 3,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy1", "enemy2", "enemy29", "enemy29"]
+            }
+        },
+        "5": {
+            "map": 1,
+            "enemySpawn": {
+                "wave": 1,
+                "amount": [1, 1, 1, 1],
+                "enemyNames": ["enemy10"]
+            }
+        },
+        "6": {
+            "map": 2,
+            "enemySpawn": {
+                "wave": 3,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy2", "enemy29", "enemy29", "bigSquid"]
+            }
+        },
+        "7": {
+            "map": 2,
+            "enemySpawn": {
+                "wave": 4,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy2", "enemy29", "enemy29", "bigSquid"]
+            }
+        },
+        "8": {
+            "map": 3,
+            "enemySpawn": {
+                "wave": 4,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy1", "enemy29", "enemy20"]
+            }
+        },
+        "9": {
+            "map": 3,
+            "enemySpawn": {
+                "wave": 4,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy2", "enemy29", "enemy20"]
+            }
+        },
+        "10": {
+            "map": 3,
+            "enemySpawn": {
+                "wave": 1,
+                "amount": [1, 1, 1, 1],
+                "enemyNames": ["enemy39"]
+            }
+        },
+        "11": {
+            "map": 4,
+            "enemySpawn": {
+                "wave": 4,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy1", "enemy20", "shader"]
+            }
+        },
+        "12": {
+            "map": 4,
+            "enemySpawn": {
+                "wave": 4,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy29", "enemy20", "shader"]
+            }
+        },
+        "13": {
+            "map": 5,
+            "enemySpawn": {
+                "wave": 4,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy2", "enemy18", "shader"]
+            }
+        },
+        "14": {
+            "map": 5,
+            "enemySpawn": {
+                "wave": 4,
+                "amount": [4, 4, 5, 5],
+                "enemyNames": ["enemy20", "enemy18", "shader"]
+            }
+        },
+        "15": {
+            "map": 5,
+            "enemySpawn": {
+                "wave": 1,
+                "amount": [1, 1, 1, 1],
+                "enemyNames": ["miniBoss"]
+            }
+        }
+    }
+}

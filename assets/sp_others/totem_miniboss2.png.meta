@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "46441376-e0e1-49f8-af58-8a0ea3510bd8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 367,
+  "height": 367,
+  "platformSettings": {},
+  "subMetas": {
+    "totem_miniboss2": {
+      "ver": "1.0.6",
+      "uuid": "64155b82-8541-4f43-8402-bb36d468427e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "46441376-e0e1-49f8-af58-8a0ea3510bd8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 359,
+      "height": 362,
+      "rawWidth": 367,
+      "rawHeight": 367,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

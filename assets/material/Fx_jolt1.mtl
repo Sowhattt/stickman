@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "Fx_jolt1",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "829a282c-b049-4019-bd38-5ace8d8a6417"
+  },
+  "_techniqueIndex": 1,
+  "_techniqueData": {
+    "0": {
+      "defines": {},
+      "props": {
+        "mainTexture": {
+          "__uuid__": "c75d72ad-ec66-4a3c-acab-b694cc0c7664"
+        }
+      }
+    }
+  }
+}
