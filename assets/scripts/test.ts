@@ -21,5 +21,6 @@ export default class test extends cc.Component {
     }
 
     // update (dt) {}
-    newfunction(){}
+    newfunction(){};
+    newfunction2(){};
 }
