@@ -19,7 +19,9 @@ export default class test extends cc.Component {
     start () {
     }
 
-    
+    update(){
+        
+    }
     newfunction(){};
     newfunction2(){};
     testFunction(){};
