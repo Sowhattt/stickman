@@ -17,7 +17,6 @@ export default class test extends cc.Component {
     onLoad () {}
 
     start () {
-
     }
 
     update (dt) {}
