@@ -14,7 +14,6 @@ const {ccclass, property} = cc._decorator;
 export default class test extends cc.Component {
 
 
-    onLoad () {}
 
     start () {
     }
