@@ -30,4 +30,5 @@ export default class test extends cc.Component {
 
     newFuc(){}
     newFuc2(){}
+    newFuc3(){}
 }
